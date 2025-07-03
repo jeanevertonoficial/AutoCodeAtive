@@ -111,7 +111,7 @@ class AutomacaoGUI:
         self.root.geometry(f"+{x}+{y}")
 
     def expandir(self, event):
-        self.root.geometry("600x80")
+        self.root.geometry("200x80")
         self.root.attributes("-alpha", 1.0)
         self.label.pack(pady=(8, 0))
         self.btn_frame.pack(pady=(5, 10))        
