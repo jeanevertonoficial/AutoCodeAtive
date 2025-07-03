@@ -76,6 +76,9 @@ def acao_automatica():
 
 def loop_automacao():
     global rodando, pausado
+    tempo_limite = 15 * 60  # 15 minutos em segundos
+    start_time = time.time()
+
     while rodando:
         if not pausado:
             tempo_inativo = get_idle_duration()
@@ -83,6 +86,15 @@ def loop_automacao():
                 logger.info(f"Usuário inativo por {tempo_inativo:.2f}s. Iniciando ação.")
                 acao_automatica()
                 time.sleep(60)
+
+        # Verifica se o tempo já passou de 15 minutos
+        tempo_passado = time.time() - start_time
+        if tempo_passado >= tempo_limite:
+            logger.info("Tempo limite de execução atingido. Encerrando automação.")
+            mostrar_notificacao("Automação Encerrada", "Tempo limite de 15 minutos atingido.")
+            encerrar_automacao()
+            break
+
         time.sleep(5)
 
 def iniciar_automacao():
