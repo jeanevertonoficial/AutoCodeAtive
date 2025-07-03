@@ -1,0 +1,13 @@
+2025-07-03 14:00:39,139 - INFO - Interface iniciada.
+2025-07-03 14:00:44,085 - INFO - Automação iniciada.
+2025-07-03 14:00:49,086 - INFO - Usuário inativo por 3.86s. Iniciando ação.
+2025-07-03 14:00:49,087 - WARNING - Erro ao exibir notificação: No usable implementation found!
+2025-07-03 14:00:49,087 - INFO - Executando ação automática.
+2025-07-03 14:00:54,965 - INFO - Movimento para (1914, 187) sem clique.
+2025-07-03 14:00:56,936 - INFO - Movimento para (1140, 582) sem clique.
+2025-07-03 14:00:59,091 - INFO - Movimento para (1508, 731) sem clique.
+2025-07-03 14:01:01,199 - INFO - Movimento para (1739, 436) sem clique.
+2025-07-03 14:01:03,624 - INFO - Movimento para (1545, 207) sem clique.
+2025-07-03 14:01:04,807 - INFO - Movimento final para (797, 333).
+2025-07-03 14:02:28,826 - WARNING - Erro ao exibir notificação: No usable implementation found!
+2025-07-03 14:02:28,826 - INFO - Encerrando automação.

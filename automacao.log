@@ -1,0 +1,121 @@
+2025-07-03 10:42:25,921 - INFO - Interface iniciada.
+2025-07-03 10:42:37,248 - INFO - Automacao iniciada.
+2025-07-03 10:42:58,448 - INFO - Automacao pausada.
+2025-07-03 10:43:03,417 - INFO - Encerrando automacao.
+2025-07-03 12:47:23,076 - INFO - Interface iniciada.
+2025-07-03 12:47:55,344 - INFO - Interface iniciada.
+2025-07-03 12:50:32,855 - INFO - Interface iniciada.
+2025-07-03 12:50:51,526 - INFO - Interface iniciada.
+2025-07-03 13:22:15,975 - INFO - Interface iniciada.
+2025-07-03 13:29:27,304 - INFO - Interface iniciada.
+2025-07-03 13:29:49,511 - INFO - Interface iniciada.
+2025-07-03 13:31:21,609 - INFO - Interface iniciada.
+2025-07-03 13:36:07,829 - INFO - Interface iniciada.
+2025-07-03 13:36:10,279 - INFO - Automacao iniciada.
+2025-07-03 13:40:44,287 - INFO - Interface iniciada.
+2025-07-03 13:40:46,883 - INFO - Automacao iniciada.
+2025-07-03 13:40:46,884 - INFO - Automacao iniciada.
+2025-07-03 13:41:33,506 - INFO - Interface iniciada.
+2025-07-03 13:41:35,804 - INFO - Automacao iniciada.
+2025-07-03 13:41:35,805 - INFO - Automacao iniciada.
+2025-07-03 13:41:40,805 - INFO - Usuário inativo por 4.78s. Iniciando ação.
+2025-07-03 13:41:40,805 - INFO - Usuário inativo por 4.78s. Iniciando ação.
+2025-07-03 13:41:40,805 - INFO - Executando ação automática.
+2025-07-03 13:41:40,806 - INFO - Executando ação automática.
+2025-07-03 13:41:45,681 - INFO - Usuário interferiu com o mouse. Ação automática cancelada.
+2025-07-03 13:41:46,933 - INFO - Movimento para (1300, 518) com clique.
+2025-07-03 13:41:49,216 - INFO - Movimento para (302, 277) sem clique.
+2025-07-03 13:41:51,348 - INFO - Movimento para (202, 222) com clique.
+2025-07-03 13:41:53,496 - INFO - Movimento para (757, 266) com clique.
+2025-07-03 13:41:55,922 - INFO - Movimento para (1879, 216) com clique.
+2025-07-03 13:41:57,059 - INFO - Movimento final para (742, 1007).
+2025-07-03 13:42:24,120 - INFO - Automacao pausada.
+2025-07-03 13:42:24,121 - INFO - Automacao pausada.
+2025-07-03 13:48:01,772 - INFO - Interface iniciada.
+2025-07-03 13:48:06,418 - INFO - Automação iniciada.
+2025-07-03 13:48:06,418 - INFO - Automacao iniciada.
+2025-07-03 13:48:11,419 - INFO - Usuário inativo por 4.92s. Iniciando ação.
+2025-07-03 13:48:11,419 - INFO - Usuário inativo por 4.92s. Iniciando ação.
+2025-07-03 13:48:11,442 - INFO - Executando ação automática.
+2025-07-03 13:48:11,442 - INFO - Executando ação automática.
+2025-07-03 13:48:17,389 - INFO - Movimento para (536, 680) com clique.
+2025-07-03 13:48:17,455 - INFO - Movimento para (719, 331) com clique.
+2025-07-03 13:48:18,265 - INFO - Usuário interferiu com o mouse. Ação automática cancelada.
+2025-07-03 13:48:19,502 - INFO - Movimento para (1457, 499) sem clique.
+2025-07-03 13:48:21,535 - INFO - Movimento para (1346, 298) sem clique.
+2025-07-03 13:48:23,383 - INFO - Usuário interferiu com o mouse. Ação automática cancelada.
+2025-07-03 13:49:31,014 - INFO - Automação pausada.
+2025-07-03 13:49:31,014 - INFO - Automacao pausada.
+2025-07-03 13:52:38,359 - INFO - Interface iniciada.
+2025-07-03 13:52:40,390 - INFO - Automação iniciada.
+2025-07-03 13:52:45,391 - INFO - Usuário inativo por 4.89s. Iniciando ação.
+2025-07-03 13:52:45,396 - INFO - Executando ação automática.
+2025-07-03 13:52:51,520 - INFO - Movimento para (1587, 702) sem clique.
+2025-07-03 13:52:53,800 - INFO - Movimento para (808, 715) com clique.
+2025-07-03 13:52:55,811 - INFO - Movimento para (1536, 283) sem clique.
+2025-07-03 13:52:58,150 - INFO - Movimento para (344, 206) com clique.
+2025-07-03 13:53:00,363 - INFO - Movimento para (1830, 966) com clique.
+2025-07-03 13:53:01,508 - INFO - Movimento final para (1086, 620).
+2025-07-03 13:53:06,226 - INFO - Automação pausada.
+2025-07-03 13:55:19,608 - INFO - Encerrando automação.
+2025-07-03 14:02:32,861 - INFO - Interface iniciada.
+2025-07-03 14:02:35,832 - INFO - Automação iniciada.
+2025-07-03 14:02:52,957 - INFO - Interface iniciada.
+2025-07-03 14:03:06,981 - INFO - Automação iniciada.
+2025-07-03 14:03:51,986 - INFO - Usuário inativo por 6.72s. Iniciando ação.
+2025-07-03 14:03:52,008 - INFO - Executando ação automática.
+2025-07-03 14:03:58,228 - INFO - Movimento para (1421, 303) com clique.
+2025-07-03 14:04:00,562 - INFO - Movimento para (1420, 351) com clique.
+2025-07-03 14:04:02,799 - INFO - Movimento para (1730, 100) sem clique.
+2025-07-03 14:04:05,203 - INFO - Movimento para (998, 447) com clique.
+2025-07-03 14:04:07,205 - INFO - Movimento para (912, 510) com clique.
+2025-07-03 14:04:08,479 - INFO - Movimento final para (1272, 282).
+2025-07-03 14:05:13,481 - INFO - Usuário inativo por 36.94s. Iniciando ação.
+2025-07-03 14:05:13,483 - INFO - Executando ação automática.
+2025-07-03 14:05:19,366 - INFO - Movimento para (1564, 162) sem clique.
+2025-07-03 14:05:21,846 - INFO - Movimento para (1868, 957) com clique.
+2025-07-03 14:05:23,861 - INFO - Movimento para (221, 470) com clique.
+2025-07-03 14:05:25,989 - INFO - Movimento para (655, 849) sem clique.
+2025-07-03 14:05:28,302 - INFO - Movimento para (1526, 228) com clique.
+2025-07-03 14:05:29,494 - INFO - Movimento final para (1576, 1067).
+2025-07-03 14:06:34,496 - INFO - Usuário inativo por 66.30s. Iniciando ação.
+2025-07-03 14:06:34,496 - INFO - Executando ação automática.
+2025-07-03 14:06:40,641 - INFO - Movimento para (1411, 231) sem clique.
+2025-07-03 14:06:43,027 - INFO - Movimento para (424, 289) sem clique.
+2025-07-03 14:06:45,256 - INFO - Movimento para (1467, 306) sem clique.
+2025-07-03 14:06:47,295 - INFO - Movimento para (14, 759) com clique.
+2025-07-03 14:06:49,614 - INFO - Movimento para (269, 239) sem clique.
+2025-07-03 14:06:50,809 - INFO - Movimento final para (237, 89).
+2025-07-03 14:07:55,811 - INFO - Usuário inativo por 68.62s. Iniciando ação.
+2025-07-03 14:07:55,812 - INFO - Executando ação automática.
+2025-07-03 14:08:01,765 - INFO - Movimento para (1781, 665) sem clique.
+2025-07-03 14:08:03,799 - INFO - Movimento para (174, 326) sem clique.
+2025-07-03 14:08:05,855 - INFO - Movimento para (1574, 407) com clique.
+2025-07-03 14:08:08,149 - INFO - Movimento para (449, 746) com clique.
+2025-07-03 14:08:10,404 - INFO - Movimento para (714, 781) com clique.
+2025-07-03 14:08:11,577 - INFO - Movimento final para (1107, 162).
+2025-07-03 14:09:21,580 - INFO - Usuário inativo por 7.44s. Iniciando ação.
+2025-07-03 14:09:21,580 - INFO - Executando ação automática.
+2025-07-03 14:09:27,620 - INFO - Movimento para (413, 92) com clique.
+2025-07-03 14:09:29,763 - INFO - Movimento para (734, 1039) sem clique.
+2025-07-03 14:09:32,021 - INFO - Movimento para (512, 190) sem clique.
+2025-07-03 14:09:33,888 - INFO - Movimento para (1756, 243) sem clique.
+2025-07-03 14:09:35,973 - INFO - Movimento para (252, 982) com clique.
+2025-07-03 14:09:37,259 - INFO - Movimento final para (1422, 389).
+2025-07-03 14:12:52,276 - INFO - Usuário inativo por 3.14s. Iniciando ação.
+2025-07-03 14:12:52,276 - INFO - Executando ação automática.
+2025-07-03 14:12:55,538 - INFO - Usuário interferiu com o mouse. Ação automática cancelada.
+2025-07-03 14:14:30,544 - INFO - Usuário inativo por 4.38s. Iniciando ação.
+2025-07-03 14:14:30,544 - INFO - Executando ação automática.
+2025-07-03 14:14:36,549 - INFO - Movimento para (1772, 362) sem clique.
+2025-07-03 14:14:38,620 - INFO - Movimento para (932, 7) sem clique.
+2025-07-03 14:14:40,434 - INFO - Movimento para (990, 342) sem clique.
+2025-07-03 14:14:42,606 - INFO - Movimento para (1834, 453) sem clique.
+2025-07-03 14:14:45,101 - INFO - Movimento para (1238, 233) com clique.
+2025-07-03 14:14:46,459 - INFO - Movimento final para (900, 357).
+2025-07-03 14:18:11,473 - INFO - Usuário inativo por 5.45s. Iniciando ação.
+2025-07-03 14:18:11,474 - INFO - Executando ação automática.
+2025-07-03 14:18:17,274 - INFO - Usuário interferiu com o mouse. Ação automática cancelada.
+2025-07-03 14:19:22,277 - INFO - Usuário inativo por 4.55s. Iniciando ação.
+2025-07-03 14:19:22,278 - INFO - Executando ação automática.
+2025-07-03 14:19:27,939 - INFO - Usuário interferiu com o mouse. Ação automática cancelada.
