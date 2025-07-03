@@ -82,7 +82,7 @@ def loop_automacao():
     while rodando:
         if not pausado:
             tempo_inativo = get_idle_duration()
-            if tempo_inativo > 3:
+            if tempo_inativo > 60:
                 logger.info(f"Usuário inativo por {tempo_inativo:.2f}s. Iniciando ação.")
                 acao_automatica()
                 time.sleep(60)
