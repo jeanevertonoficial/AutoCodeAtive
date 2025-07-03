@@ -1,0 +1,6 @@
+src/build
+build
+src/dist
+automacao.log
+src/modules/__pycache__
+src/antepausa.spec
